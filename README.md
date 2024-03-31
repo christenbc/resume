@@ -5,7 +5,7 @@ _Remote | Jun 2023 – Current_
 
 **FULL-STACK DEVELOPER, FREELANCER & ENTREPRENEUR**
 
-- Developed, deployed and maintained for a customer, a web platform for travel agencies where they can propose seamlessly trip info and itinerary with customers.
+- Developed, deployed and maintained for a customer, a web platform for travel agencies where they can propose seamlessly trip info and itinerary with customers. It is currently in production being used by a [travel agency](https://mundoexplora.com/).
 
 ## Kaptue
 _Remote | Oct 2022 – Mar 2023_
