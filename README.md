@@ -3,14 +3,14 @@
 ## Destinno
 _Remote | Jun 2023 – Current_
 
-**FREELANCER & ENTREPRENEUR**
+**FULL-STACK DEVELOPER, FREELANCER & ENTREPRENEUR**
 
 - Developed, deployed and maintained for a customer, a web platform for travel agencies where they can propose seamlessly trip info and itinerary with customers.
 
 ## Kaptue
 _Remote | Oct 2022 – Mar 2023_
 
-**FREELANCER**
+**FULL-STACK DEVELOPER, FREELANCER**
 
 - Designed, developed and published for a customer, a mobile app for classifying and managing screenshots synced on Google Cloud on Google Play and App Store with in-app-purchases.
 
@@ -57,7 +57,7 @@ _Sep 2012 – Jun 2017_
 
 _Feb 2023 – Jul 2023_
 
-**ENTREPRENEUR**
+**FULL-STACK DEVELOPER, ENTREPRENEUR**
 
 - Collaborated in the creation of a digital solution for the web that generates tailored cover letters based on the user’s background experience and the job description text, leveraging GPT-4.
 
@@ -65,7 +65,7 @@ _Feb 2023 – Jul 2023_
 
 _Mar 2022 – Jul 2022_
 
-**ENTREPRENEUR**
+**FULL-STACK DEVELOPER, ENTREPRENEUR**
 
 - Created a multi-platform app for iOS, Android & Web, to help traders manage risk positions while having a trading journal and an analytics feature based on these entries. Live demo [here](https://lever8trade-28d46.web.app).
 
@@ -73,7 +73,7 @@ _Mar 2022 – Jul 2022_
 
 _Mar 2021 – Dec 2021_
 
-**ENTREPRENEUR**
+**FULL-STACK DEVELOPER, ENTREPRENEUR**
 
 - Co-created with a teacher an iOS and Android social network app exclusive for the teachers' community where they could share interactive and didactic posts. We managed to onboard +200 teachers. Demo video [here](https://www.youtube.com/watch?v=1itdCNS-TIQ). More info [here](https://medium.com/@christen.bc/opetaya-series-a-journey-from-zero-to-a-functional-social-network-ca7de9ec2b55).
 
