@@ -10,7 +10,7 @@ _Remote | Jun 2023 – Current_
 ## Kaptue
 _Remote | Oct 2022 – Mar 2023_
 
-**FULL-STACK DEVELOPER, FREELANCER**
+**FULL-STACK DEVELOPER & FREELANCER**
 
 - Designed, developed and published for a customer, a mobile app for classifying and managing screenshots synced on Google Cloud on Google Play and App Store with in-app-purchases.
 
