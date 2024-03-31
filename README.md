@@ -145,7 +145,7 @@ _Nov 2019_
 
 - Created a machine learning model to infer the type of the floor provided by the readings of IMU sensors of a mobile robot.
 
-# Endorsements
+# ⭐️ Endorsements
 
 ## KAPTUE & DESTINNO
 
