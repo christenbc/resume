@@ -31,21 +31,21 @@ _Madrid, Spain | Dec 2019 – Feb 2021_
 
 # 🎓 Education
 
-## Universidad Politécnica de Valencia
+## Master’s [Degree](https://www.upv.es/titulaciones/MUII/index-en.html) in Industrial Engineering
 
 _Sep 2017 – Jun 2019_
 
-**MASTER’S [DEGREE](https://www.upv.es/titulaciones/MUII/index-en.html) in Industrial Engineering**
+**Universidad Politécnica de Valencia**
 
 - A 2-year multidisciplinary engineering curriculum. Specialized in Robotics & Machine Learning at Tampere University of Applied Sciences (Erasmus+ in Finland) the last year.
 
 - Researched for the Factory Automation & Systems in the field of Robotics, Computer Vision and Deep Learning to write my Master’s [thesis](https://trepo.tuni.fi/handle/123456789/27700). Built a real-time system for an industrial robot to improve mapping by deleting temporary agent noise. More info [here](https://medium.com/@christen.bc/how-inefficient-can-be-mapping-for-robot-navigation-in-the-industry-a56c344a0c1d).
 
-## Universidad Politécnica de Valencia
+## Bachelor’s [Degree](http://www.upv.es/titulaciones/GITI/index-en.html) in Industrial Engineering
 
 _Sep 2012 – Jun 2017_
 
-**BACHELOR’S [DEGREE](http://www.upv.es/titulaciones/GITI/index-en.html) in Industrial Engineering**
+**Universidad Politécnica de Valencia**
 
 - Studied at Western Norway University of Applied Sciences (Erasmus+ in Norway) the last semester.
 
@@ -53,7 +53,7 @@ _Sep 2012 – Jun 2017_
 
 # 🔆 Side Projects
 
-## RESUMINE
+## Resumine
 
 _Feb 2023 – Jul 2023_
 
