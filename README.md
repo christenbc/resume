@@ -59,7 +59,7 @@ _Feb 2023 – Jul 2023_
 
 **FULL-STACK DEVELOPER, ENTREPRENEUR**
 
-- Collaborated in the creation of a digital solution for the web that generates tailored cover letters based on the user’s background experience and the job description text, leveraging GPT-4.
+- Collaborated with [Asier Alcaide](https://www.linkedin.com/in/asier-alcaide/) and [Felix Bernal](https://es.linkedin.com/in/felix-bernal-sierra) in the creation of a digital solution for the web that generates tailored cover letters based on the user’s background experience and the job description text, leveraging GPT-4.
 
 ## Lever8Trade
 
