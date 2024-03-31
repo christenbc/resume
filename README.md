@@ -35,7 +35,7 @@ _Madrid, Spain | Dec 2019 – Feb 2021_
 
 _Sep 2017 – Jun 2019_
 
-**Universidad Politécnica de Valencia**
+**UNIVERSIDAD POLITÉCNICA DE VALENCIA**
 
 - A 2-year multidisciplinary engineering curriculum. Specialized in Robotics & Machine Learning at Tampere University of Applied Sciences (Erasmus+ in Finland) the last year.
 
@@ -45,7 +45,7 @@ _Sep 2017 – Jun 2019_
 
 _Sep 2012 – Jun 2017_
 
-**Universidad Politécnica de Valencia**
+**UNIVERSIDAD POLITÉCNICA DE VALENCIA**
 
 - Studied at Western Norway University of Applied Sciences (Erasmus+ in Norway) the last semester.
 
