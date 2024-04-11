@@ -31,6 +31,7 @@ _Valencia, Spain | Jan 2022 – Sep 2022_
 - Worked with cross-functional teams to ensure application performance, uptime, and scalability, delivering a quality product on time and within budget.
 - Applied knowledge of Flutter, React JS/Redux/Hooks, and TypeScript to deliver an exceptional user experience.
 - Engaged effectively with product management to support technical design and implementation of new projects from discovery to deployment.
+
 More info [here](https://medium.com/@christen.bc/edtech-and-the-future-of-education-scalability-8f2a558f0e17).
 
 ## Heróux-Devtek
