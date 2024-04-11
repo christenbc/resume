@@ -5,21 +5,33 @@ _Remote | Jun 2023 – Current_
 
 **FULL-STACK DEVELOPER, FREELANCER & ENTREPRENEUR**
 
-- Developed, deployed and maintained for a customer, a web platform for travel agencies where they can propose seamlessly trip info and itinerary with customers. It is currently in production, being used by a [travel agency](https://mundoexplora.com/) among others.
+- Collaborated across different stakeholders to design and build a scalable and responsive web platform for travel agencies to boost their productivity and customer experience.
+- Played a key role in all phases of the development lifecycle, from discovery to deployment, ensuring code quality, application performance, and scale.
+- Led the implementation of all features, working closely with the product manager and external app designers to exceed client expectations.
+- Utilized deep understanding of Flutter, Node.js, Typescript, HTML5, and CSS3 to develop and maintain robust, responsive applications.
+
 
 ## Kaptue
 _Remote | Oct 2022 – Mar 2023_
 
 **FULL-STACK DEVELOPER & FREELANCER**
 
-- Designed, developed and published for a customer, a mobile app for classifying and managing screenshots synced on Google Cloud on Google Play and App Store with in-app-purchases.
+- Partnered with a client to develop a high-quality mobile app for classifying and managing screenshots on Google Cloud for Android and iOS devices.
+- Leveraged expertise in full-stack development to ensure the smooth running of the application and meet customers' needs.
+- Worked closely with the product team to deliver a user-friendly experience for influencers, enhancing customer satisfaction and loyalty.
+- Managed the end-to-end lifecycle of the project, from preliminary system analysis to tests and deployments, ensuring the timely delivery of the product.
+
 
 ## Jolly Technologies
 _Valencia, Spain | Jan 2022 – Sep 2022_
 
 **FLUTTER ENGINEER**
 
-- Enabled the possibility to launch within deadline a delayed and buggy SaaS used in classrooms all over the world to teach English by the use of phonetics with interactive exercises for children in an English edtech. More info [here](https://medium.com/@christen.bc/edtech-and-the-future-of-education-scalability-8f2a558f0e17).
+- Executed full-stack development and design tasks to launch a software product used globally for teaching English, meeting significant deadlines.
+- Worked with cross-functional teams to ensure application performance, uptime, and scalability, delivering a quality product on time and within budget.
+- Applied knowledge of Flutter, React JS/Redux/Hooks, and TypeScript to deliver an exceptional user experience.
+- Engaged effectively with product management to support technical design and implementation of new projects from discovery to deployment.
+More info [here](https://medium.com/@christen.bc/edtech-and-the-future-of-education-scalability-8f2a558f0e17).
 
 ## Heróux-Devtek
 
@@ -27,7 +39,11 @@ _Madrid, Spain | Dec 2019 – Feb 2021_
 
 **MAINTENANCE, REPAIRMENT & OVERHAUL AIRCRAFT ENGINEER**
 
-- Inspected materials and analyzed sensible documentation in order to provide solutions to process critical equipment under EASA, FAA and other standards for a renowned civil & military aerospace factory. Sent procedural instructions via SAP in the context of repairment, overhaul and testing components such as landing gears and actuators. More info [here](https://medium.com/@christen.bc/the-role-and-importance-of-aviation-mro-engineering-eb808513cbfd).
+- Inspected civil and military aircraft critical components such as landing gears and actuators and processed them following Component Maintenance Modules and Data Modules.
+- Applied mechanical and material engineering, and logistics skills to design operations for components by sending the directives via SAP.
+- Engaged effectively with customers and supported factory workers in charge of executing the planned operations.
+
+More info [here](https://medium.com/@christen.bc/the-role-and-importance-of-aviation-mro-engineering-eb808513cbfd).
 
 # 🎓 Education
 
@@ -50,6 +66,8 @@ _Sep 2012 – Jun 2017_
 - Studied at Western Norway University of Applied Sciences (Erasmus+ in Norway) the last semester.
 
 - Collaborated in a team in the design and craft an automated dive control station with a PLC and & HMI for a diving line at the Bergen’s HVL Diving School for the final project.
+
+>Industrial Engineering provides students with a solid scientific background, as well as a wide variety of knowledge in various industrial technologies (mechanics, electricity, electronics, automation, materials, industrial constructions, projects, production, environment, energy and industrial organization), which forges him as a multidisciplinary professional capable of developing his professional work in industries, companies or public bodies, as well as for the free exercise of the profession.
 
 # 🛠️ Skills
 
