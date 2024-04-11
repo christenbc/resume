@@ -85,7 +85,7 @@ _Jan 2024_
 
 **JOYOFCODE**
 
-- Built a fast, minimalistic and elegant blog leveraging markdown. Repo link here.
+- Built a fast, minimalistic and elegant blog leveraging markdown. Repo link [here](https://github.com/christenbc/SvelteKit-Blog).
 
 ## Frontend Expert Bootcamp
 
@@ -93,7 +93,7 @@ _Oct 2023_
 
 **ALGOEXPERT**
 
-- Learned about HTML, CSS, JavaScript and React. Certification here.
+- Learned about HTML, CSS, JavaScript and React. Certification [here](https://certificate.algoexpert.io/FE-ffb583c259).
 
 ## Algorithmic Trading
 
@@ -101,7 +101,7 @@ _May 2023_
 
 **UDEMY**
 
-- Coded a bot which trades autonomously using MQL5 language from Metatrader 5. Certification here.
+- Coded a bot which trades autonomously using MQL5 language from Metatrader 5. Certification [here](https://www.udemy.com/certificate/UC-5a0e2e63-dfea-46b6-b817-bc12cd098d44/).
 
 ## Master of Business & Administration
 
@@ -109,7 +109,7 @@ _Sep 2021_
 
 **THEPOWERMBA**
 
-- Business model innovation, lean startup, fundamentals & strategy, marketing, entrepreneurship, fundraising, leadership, finance and accounting. Certification here.
+- Business model innovation, lean startup, fundamentals & strategy, marketing, entrepreneurship, fundraising, leadership, finance and accounting. Certification [here](https://drive.google.com/file/d/1NvL46PmqRiJpNCtmKADi35atlfYCOAyw/view?usp=sharing).
 
 ## Self-Driving Car Engineer
 
@@ -117,7 +117,7 @@ _Jun 2020_
 
 **UDACITY**
 
-- Computer vision, deep learning, localization, path planning, and control. Recruited 3 people to lead a team to address the final systems' integration project. Certifications here and here. More info here.
+- Computer vision, deep learning, localization, path planning, and control. Recruited 3 people to lead a team to address the final systems' integration [project](https://github.com/christenbc/CarND-Capstone). Certifications [here](https://graduation.udacity.com/confirm/AQKHDF9Q) and [here](https://graduation.udacity.com/confirm/6XFFXXDC). More info [here](https://medium.com/@christen.bc/self-driving-cars-how-can-we-empower-an-automobile-the-ability-to-interpret-what-it-sees-ff36f63f00cd).
 
 ## Deep Learning Engineer
 
@@ -125,7 +125,7 @@ _Jul 2018_
 
 **COURSERA: DEEPLEARNING.AI**
 
-- Neural Networks and Deep Learning, Improving Deep Neural Networks with Hyperparameter tuning, Regularization and Optimization; Structuring Machine Learning projects, Convolutional Neural Networks, and Sequence Models. Certification here.
+- Neural Networks and Deep Learning, Improving Deep Neural Networks with Hyperparameter tuning, Regularization and Optimization; Structuring Machine Learning projects, Convolutional Neural Networks, and Sequence Models. Certification [here](https://www.coursera.org/account/accomplishments/specialization/26RVS9ZU52NW).
 
 # 🎖️ Achievements
 
