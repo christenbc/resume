@@ -51,6 +51,45 @@ _Sep 2012 – Jun 2017_
 
 - Collaborated in a team in the design and craft an automated dive control station with a PLC and & HMI for a diving line at the Bergen’s HVL Diving School for the final project.
 
+# 🛠️ Skills
+
+![](https://img.shields.io/badge/Typescript-grey?logo=typescript)
+![](https://img.shields.io/badge/Javascript-grey?logo=javascript)
+![](https://img.shields.io/badge/HTML-grey?logo=html5)
+![](https://img.shields.io/badge/CSS-grey?logo=css3)
+![](https://img.shields.io/badge/Flutter-grey?logo=flutter)
+![](https://img.shields.io/badge/Android_apps-grey?logo=android)
+![](https://img.shields.io/badge/iOS_apps-grey?logo=apple)
+![](https://img.shields.io/badge/React-grey?logo=react)
+![](https://img.shields.io/badge/Svelte-grey?logo=svelte)
+![](https://img.shields.io/badge/Firebase-grey?logo=firebase)
+![](https://img.shields.io/badge/Google_Cloud-grey?logo=googlecloud)
+![](https://img.shields.io/badge/Supabase-grey?logo=supabase)
+![](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql)
+![](https://img.shields.io/badge/NodeJS-grey?logo=nodedotjs)
+![](https://img.shields.io/badge/Git-grey?logo=git)
+![](https://img.shields.io/badge/Stripe-grey?logo=stripe)
+![](https://img.shields.io/badge/RevenueCat-grey?logo=revenuecat)
+![](https://img.shields.io/badge/Algolia-grey?logo=algolia)
+![](https://img.shields.io/badge/Typesense-grey?logo=typesense)
+![](https://img.shields.io/badge/Apollo_GraphQL-grey?logo=apollographql)
+![](https://img.shields.io/badge/Protobuf-grey?logo=googleforms)
+![](https://img.shields.io/badge/NPM-grey?logo=npm)
+![](https://img.shields.io/badge/Docker-grey?logo=docker)
+![](https://img.shields.io/badge/Figma-grey?logo=figma)
+![](https://img.shields.io/badge/Kotlin-grey?logo=kotlin)
+![](https://img.shields.io/badge/ROS-grey?logo=ros)
+![](https://img.shields.io/badge/MQL5-grey?logo=metatrader)
+![](https://img.shields.io/badge/MatLab-grey?logo=matlab)
+![](https://img.shields.io/badge/Python-grey?logo=python)
+![](https://img.shields.io/badge/C++-grey?logo=cplusplus)
+![](https://img.shields.io/badge/AutoCAD-grey?logo=autocad)
+![](https://img.shields.io/badge/Inventor-grey?logo=autodesk)
+![](https://img.shields.io/badge/PTC_Creo-grey?logo=webpack)
+![](https://img.shields.io/badge/SAP-grey?logo=sap)
+![](https://img.shields.io/badge/Microsoft_office-grey?logo=microsoftteams)
+![](https://img.shields.io/badge/Google_docs-grey?logo=googledocs)
+
 # 🔆 Side Projects
 
 ## Resumine
